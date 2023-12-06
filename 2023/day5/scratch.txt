@@ -1,0 +1,7 @@
+    seedsToSoilRanges = []
+    soilToFertilizerRanges = []
+    fertilizerToWaterRanges = []
+    waterToLightRanges = []
+    lightToTemperatureRanges = []
+    temperatureToHumidityRanges = []
+    humidityToLocationRanges = []
